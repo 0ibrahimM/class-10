@@ -1,0 +1,13 @@
+class  -colar 
+colar by name 
+color by Hex code (21MX55)
+colar by Rgb (red green blue) (255,55,0)
+colar by RGBA(RED GREEN BLUE ALPHA)  (7,100,20,0,1)
+Linear gradian colar system
+
+Decimal=>  0 1 2 3 4 5 6 7 8 9
+binary =>0 1
+octal => 0 1 2 3 4 5 6 7
+ hex Decimal =>0 1 2 3 4 5 6 7 8 9 A B C D E F
+ 
+ 
